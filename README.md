@@ -1,24 +1,5 @@
 # Project-1-_-MIST-4610
-MIST 4610- Group Project 1 
-Team Name 
-Group_21479_G9
 
- 
-Members
-Chase Bell (https://github.com/cbello1618 )
-Megan Hanson (https://github.com/megannhanson )
-Garret Davis (https://github.com/gdavis74343)
-Abhi Vadlamudi (https://github.com/abhi33ravens)
-
-
-Problem Description 
-Our client is seeking the development and implementation of a system in order to organize their members, events, reservations, and various other parts of their Country Club. The country club is centered around its prestigious Golf course, fancy clubhouse, and various other facilities. The club is well known for its high level golf tournaments, dining celebrations, and pool/spa amenities. The club has found themselves having a difficult time managing member data as well as event times and facility upkeep. 
-
-Our client has asked us to develop a database that can achieve solutions to the problems outlined above. In order to carry out this task, we have decided to create a comprehensive data model centered around relational databases in SQL. By doing so, our client will be able to have a 360 view of their center of operations, and effectively manage member data, event scheduling, and facility management. 
-
-Due to the prestigious level that this Country Club holds, it is crucial that our client has the necessary resources to effectively and efficiently manage its members. This database will also provide our client with a competitive advantage, as they will have the ability to configure and analyze data in ways that most of their competitors cannot. 
-
-	We have attached screenshots of our conversation with our client (ChatGPT), which provided us with entities and relationships for a golf club with the parameters we provided:
 
 
 
